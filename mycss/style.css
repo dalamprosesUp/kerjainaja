@@ -1,0 +1,132 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.background {
+  background-color: #EAEEFE;
+}
+.background .navbar-kerjain nav .container {
+  margin-top: 48px;
+}
+.background .navbar-kerjain nav .collapse ul {
+  width: 483px;
+  height: 30px;
+  left: 795px;
+  top: 85px;
+}
+.background .navbar-kerjain nav .collapse ul .nav-item {
+  font-weight: 500;
+  font-size: 20px;
+  color: #6D6F77;
+}
+.background .navbar-kerjain nav .collapse ul .active {
+  color: #4262D2;
+}
+.background .hero-section .row .content-hero {
+  padding-bottom: 131px;
+}
+.background .hero-section .row .content-hero .btn-primary {
+  background-color: #7F6DF0;
+  border-radius: 50px;
+  padding-top: 14px;
+  padding-bottom: 15px;
+  padding-left: 36px;
+  padding-right: 35px;
+  font-weight: 500;
+  font-size: 18px;
+  border-color: #FFFFFF;
+}
+.background .hero-section .row .content-hero .hero-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #7F6DF0;
+  margin-top: 34px;
+}
+.background .hero-section .row .content-hero .desc {
+  font-weight: 400;
+  font-size: 14px;
+  color: #676E87;
+  margin-bottom: 34px;
+}
+.background .hero-section .row .content-hero .btn-success {
+  background-color: #FF6632;
+  border-radius: 5px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 26px;
+  padding-right: 25px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.background .hero-section .row .content-hero .link {
+  color: #676E87;
+  font-weight: 400;
+  font-size: 16px;
+  padding-left: 63px;
+  padding-bottom: 132px;
+}
+.background .hero-section .row .hero-img {
+  color: #EAEEFF;
+  width: 548px;
+  height: 365.33px;
+  left: 730px;
+  top: 260px;
+}
+
+.percaya {
+  background-color: #F5F5F5;
+}
+.percaya .row .content-percaya .title {
+  margin-top: 115px;
+  font-weight: 600;
+  font-size: 34px;
+  color: #48494F;
+}
+.percaya .row .content-percaya .desc {
+  margin-top: 30px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #676E87;
+}
+.percaya .row .content-percaya .link {
+  margin-bottom: 30px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #676E87;
+}
+.percaya .row .img-percaya {
+  margin-top: 115px;
+  margin-bottom: 160px;
+}
+
+.program .title-program {
+  font-weight: 600;
+  font-size: 38px;
+  color: #48494F;
+  margin-bottom: 100px;
+}
+.program .container .row .kartu .card {
+  border-radius: 20px;
+}
+.program .container .row .kartu .card .card-body .card-img-top {
+  margin-top: 39px;
+  width: 180px;
+  height: 141px;
+  left: 235px;
+  top: 1536px;
+}
+.program .container .row .kartu .card .card-body h5 {
+  margin-top: 37px;
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  color: #48494F;
+}
+.program .container .row .kartu .card .card-body .card-text {
+  margin-top: 49px;
+  font-weight: 500;
+  font-size: 19px;
+  color: #676E87;
+}/*# sourceMappingURL=style.css.map */

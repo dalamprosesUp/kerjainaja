@@ -1,0 +1,173 @@
+body{
+    background-color: #F5F5F5;
+}
+
+.background{
+    background-color: #EAEEFE;
+
+    // Navbar
+    .navbar-kerjain{
+        nav{
+            .container{
+                margin-top: 48px;
+            }
+
+            .collapse{
+                ul{
+                    width: 483px;
+                    height: 30px;
+                    left: 795px;
+                    top: 85px;
+
+                    .nav-item{
+                        font-weight: 500;
+                        font-size: 20px;
+                        color: #6D6F77;
+                    }
+
+                    .active{
+                        color: #4262D2;
+                    }
+                }
+            }
+        }
+    }
+    // End Navbar
+
+    // Hero Section
+    .hero-section{
+        .row{
+            .content-hero{
+                .btn-primary{
+                    background-color: #7F6DF0;
+                    border-radius: 50px;
+                    padding-top: 14px;
+                    padding-bottom: 15px;
+                    padding-left: 36px;
+                    padding-right: 35px;
+                    font-weight: 500;
+                    font-size: 18px;
+                    border-color:#FFFFFF;
+                }  
+
+                .hero-title{
+                    font-weight: 700;
+                    font-size: 40px;
+                    color: #7F6DF0;
+                    margin-top: 34px;
+                }
+
+                .desc{
+                    font-weight: 400;
+                    font-size: 14px;
+                    color: #676E87;
+                    margin-bottom: 34px;
+                }
+
+                .btn-success{
+                    background-color: #FF6632;
+                    border-radius: 5px;
+                    padding-top: 11px;
+                    padding-bottom: 11px;
+                    padding-left: 26px;
+                    padding-right: 25px;
+                    font-weight: 500;
+                    font-size: 18px;
+                    color: #FFFFFF;
+                }
+                padding-bottom: 131px;
+                .link{
+                    color: #676E87;
+                    font-weight: 400;
+                    font-size: 16px;
+                    padding-left: 63px;
+                    padding-bottom: 132px;
+                }
+            }
+
+            .hero-img{
+                color: #EAEEFF;
+                width: 548px;
+                height: 365.33px;
+                left: 730px;
+                top: 260px;
+            }
+        }
+    }
+    // End Hero
+}
+
+    // Percaya Section
+    .percaya{
+        background-color: #F5F5F5;
+        .row{
+            .content-percaya{
+                .title{
+                    margin-top: 115px;
+                    font-weight: 600;
+                    font-size: 34px;
+                    color: #48494F;
+                }
+                .desc{
+                    margin-top: 30px;
+                    font-weight: 400;
+                    font-size: 16px;
+                    color: #676E87;
+                }
+                .link{
+                    margin-bottom: 30px;
+                    font-weight: 600;
+                    font-size: 16px;
+                    color: #676E87;
+                }
+            }
+            .img-percaya{
+                margin-top: 115px;
+                margin-bottom: 160px;
+            }
+        }
+    }
+    // End Percaya
+
+    // Program Section
+    .program{
+        .title-program{
+            font-weight: 600;
+            font-size: 38px;
+            color: #48494F;
+            margin-bottom: 100px;
+        }
+
+        .container{
+            .row{
+                .kartu{
+                    .card{
+                        border-radius: 20px;
+                        .card-body{
+                            .card-img-top{
+                                margin-top: 39px;
+                                width: 180px;
+                                height: 141px;
+                                left: 235px;
+                                top: 1536px;
+                            }
+                            h5{
+                                margin-top: 37px;
+                                font-family: 'Roboto Slab';
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 36px;
+                                color: #48494F;
+                            }
+                            .card-text{
+                                margin-top: 49px;
+                                font-weight: 500;
+                                font-size: 19px;
+                                color: #676E87;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
